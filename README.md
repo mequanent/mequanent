@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I am Mequanent Argaw👋
+
+🌱 I’m pursuing my PhD in the Social Networks and Human-Centered Computing (SNHCC) program of the Taiwan International Graduate Program (TIGP), Academia Sinica, Taipei, Taiwan. 
 
 <!--
 **mequanent/mequanent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
