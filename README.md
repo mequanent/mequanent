@@ -2,9 +2,9 @@
 
 🌱 I’m pursuing my PhD in the Social Networks and Human-Centered Computing (SNHCC) program of the Taiwan International Graduate Program (TIGP), Academia Sinica in Taipei City, Taiwan. 
 
-![Profile views](https://komarev.com/ghpvc/?username=mequanent&color=blue)
 
-![Visitor Count](https://profile-counter.glitch.me/mequanent/count.svg)
+
+
 
 
 
@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Visitor Count](https://profile-counter.glitch.me/mequanent/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=mequanent&color=blue)
 -->
